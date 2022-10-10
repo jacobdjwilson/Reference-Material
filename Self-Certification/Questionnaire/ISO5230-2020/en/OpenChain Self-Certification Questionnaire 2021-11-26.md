@@ -59,6 +59,8 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 
 -   Do you have a process for determining the scope of your Program?
 
+-   Have you allocated adequate funding for the scope of the Program? 
+
 -   Do you have a written statement clearly defining the scope and limits of the Program?
 
 -   Do you have a documented procedure to review and document open source license obligations, restrictions and rights?
