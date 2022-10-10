@@ -89,7 +89,11 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 
 -   Do you have a documented procedure for identifying, tracking and archiving information about the open source components in a Supplied Software release?
 
--   Do you have open source component records for the Supplied Software which demonstrate the documented procedure was properly followed?
+-   Do you have open source component records for the Supplied Software which demonstrate the documented procedure was properly followed on the following topics?
+
+    -	Minimum component record detail expected for open source license use cases.
+
+    -	The implications of failing to achieve documented record detail of Supplied Software.
 
 -   Do you have a documented procedure that covers these common open source license use cases for open source components in the Supplied Software?
 
