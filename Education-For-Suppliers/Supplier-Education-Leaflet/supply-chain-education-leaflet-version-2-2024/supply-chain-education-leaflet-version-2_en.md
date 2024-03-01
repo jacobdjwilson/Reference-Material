@@ -1,12 +1,6 @@
 # Supply Chain Education Leaflet
 
-## From The OpenChain Project
-
-#### First Edition - May 2019 (as 'Open Source Software License Compliance General Public Guide')
-
-#### (Draft) Second Edition - February 2024
-
-##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation, added table of contents, updated Reciprocal licenses section.
+### From The OpenChain Project
 
 ## Contents
 - [Introduction](#introduction)
@@ -17,8 +11,6 @@
 - [Delivery of open source software](#delivery-of-open-source-software)
 
 # Introduction
-
-This leaflet is designed to help companies in the supply chain manage Open Source Software (open source). It was created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community. The OpenChain Project maintains OpenChain ISO/IEC 5230:2020 for open source license compliance and OpenChain ISO/IEC 18974:2023 for open source security assurance. These standards can help companies manage open source. You can learn more about the OpenChain Project and its standards at [www.openchainproject.org](https://www.openchainproject.org).
 
 Open source has become essential to modern software development and is incorporated into almost every electronic product, including supercomputers, cloud servers, personal computers, consumer electronics, automobiles, industrial equipment and IoT equipment. Open source is an indispensable part of helping companies to bring high quality products or services to market quickly under intense competition.
 
